@@ -45,14 +45,14 @@ const data = [
         demo: 'https://mikemarsha11.github.io/Mike-s-Portfolio/',
         github: 'https://github.com/MikeMarsha11/Mike-s-Portfolio'
     },
-    // {
-    //     id: 5,
-    //     category: 'uiux',
-    //     image: Image5,
-    //     title: "Project Title Five (UIUX)",
-    //     desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut! ",
-    //     demo: 'http://egatortutorials.com',
-    //     github: 'https://github.com/egattor'
+    {
+        id: 5,
+        category: 'uiux',
+        image: Image5,
+        title: "Modern Banking UI/UX (UIUX)",
+        desc: "Fully responsive modern website/ landing page made with React JS and TailwindCSS. Designed by an external source/party in Figma. Example of how I can code out designs mad eby others ",
+        demo: 'https://modern-online-banking.vercel.app/',
+        github: 'https://github.com/MikeMarsha11/Modern-Online-Banking'
     // },
     // {
     //     id: 6,
