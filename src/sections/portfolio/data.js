@@ -53,7 +53,7 @@ const data = [
         desc: "Fully responsive modern website/ landing page made with React JS and TailwindCSS. Designed by an external source/party in Figma. Example of how I can code out designs mad eby others ",
         demo: 'https://modern-online-banking.vercel.app/',
         github: 'https://github.com/MikeMarsha11/Modern-Online-Banking'
-    // },
+    }
     // {
     //     id: 6,
     //     category: 'frontend',
